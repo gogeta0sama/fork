@@ -1,1 +1,0 @@
-python3 .up/jkup.py -f "$1"
